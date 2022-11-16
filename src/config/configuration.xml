@@ -17,5 +17,6 @@
  </environments>
  <mappers>
  <mapper resource="servletdemo/part04/empMapper.xml" />
+ <mapper resource="servletdemo/part05/memMapper.xml" />
  </mappers>
 </configuration>
